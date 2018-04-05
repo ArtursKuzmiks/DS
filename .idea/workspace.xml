@@ -1,0 +1,1411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bbbe6904-eca1-42b3-8811-c7875dd4ff62" name="Default" comment="ver 1.2.3">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ld1/Ld1_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ld1/Ld1_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ld1/Ld1_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ld1/Ld1_17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ld1/Ld1_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ld1/Ld1_32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ld1/Ld1_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ld1/Ld1_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ld2_1/Ld2_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ld2_14/Ld2_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ld2_21/Ld2_21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ld2_28/Ld2_28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ld2_3/Ld2_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ld2_31/Ld2_31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ld2_32/Ld2_32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ld3_14/Ld3_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Ld2_1/SinglyLinkedListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Ld2_14/Ld2_14Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Ld2_21/SinglyCircularLinkedListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Ld2_28/Ld2_28Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Ld2_31/DoubleCirkLinkedListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Ld3_14/Ld3_14Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Ld1/Ld1_11.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Ld1/Ld1_14.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Ld1/Ld1_16.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Ld1/Ld1_17.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Ld1/Ld1_3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Ld1/Ld1_32.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Ld1/Ld1_5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Ld1/Ld1_7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Ld2_1/Ld2_1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Ld2_1/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Ld2_1/SinglyLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Ld2_14/CircularLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Ld2_14/Ld2_14.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Ld2_14/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Ld2_21/Ld2_21.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Ld2_21/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Ld2_21/SinglyCircularLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Ld2_28/DoubleLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Ld2_28/Ld2_28.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Ld2_28/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Ld2_3/DoubleLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Ld2_3/Ld2_3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Ld2_3/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Ld2_31/DoubleCirkLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Ld2_31/Ld2_31.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Ld2_31/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Ld2_32/DoubleCircularLinkedList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Ld2_32/Ld2_32.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Ld2_32/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Ld3_14/Ld3_14.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Ld3_14/Queue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Ld2_1/SinglyLinkedListTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Ld2_14/Ld2_14Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Ld2_21/SinglyCircularLinkedListTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Ld2_28/Ld2_28Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Ld2_31/DoubleCirkLinkedListTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Ld3_14/Ld3_14Test.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/DS$Ld1_11.coverage" NAME="Ld1_11 Coverage Results" MODIFIED="1519831534137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideWarnings" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="DS" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="Ld3_14.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Ld3_14/Ld3_14.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1496">
+              <caret line="100" column="9" selection-start-line="100" selection-start-column="9" selection-end-line="100" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Arturs Kuzmiks &lt;arturskuzmiks@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Ld1_vv.java" />
+        <option value="$PROJECT_DIR$/src/Ld1_14.java" />
+        <option value="$PROJECT_DIR$/src/Ld1_11.java" />
+        <option value="$PROJECT_DIR$/src/Ld2_14.java" />
+        <option value="$PROJECT_DIR$/src/Ld3_30.java" />
+        <option value="$PROJECT_DIR$/src/Ld3_14.java" />
+        <option value="$PROJECT_DIR$/src/test/Ld3_14test/Ld3_14test.java" />
+        <option value="$PROJECT_DIR$/src/test/Ld3_14test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Ld3_14.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Ld3_14test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Ld3_14/QueueTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Ld3_14/Ld3_14Test.groovy" />
+        <option value="$PROJECT_DIR$/src/main/java/Ld1_14/Ld1_32.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Ld1_14/Ld1_17.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Ld1_14/Ld1_16.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Ld1_14/Ld1_7.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Ld1_14/Ld1_5.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Ld1/Ld1_5.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Ld2/Ld2_28Test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Ld2/Ld2_14Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Ld1/Ld1_14.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Ld2_28/Ld2_28Test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Ld3_14/Ld3_14Test.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Ld2_1/SinglyLinkedListTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Ld2_1/LD2_1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Ld2_1/Ld2_1.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Ld2_21/SinglyCircularLinkedListTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Ld2_14/CircularLinkedListTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Ld2_14/Ld2_14Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Ld2_28/Ld2_28.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Ld2_32/Ld2_32.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/Ld2_31/Ld2_31.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Ld2_31/DoubleCirkLinkedListTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Ld2_3/Ld2_3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Ld2_14/Ld2_14.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Ld1/Ld1_3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Ld2_21/Ld2_21.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Ld3_14/Ld3_14.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="950" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DS" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;jar://D:/Program Files/Java/jdk1.8.0_141/jre/lib/rt.jar!/java/util/function/BooleanSupplier.class&#10;BooleanSupplier&#9;FILE&#9;jar://D:/Program Files/Java/jdk1.8.0_141/jre/lib/rt.jar!/java/util/function/BooleanSupplier.class" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="D:/Program Files/Java/jdk1.8.0_141" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="$APPLICATION_PLUGINS_DIR$/NodeJS/js/nodeunit/nodeunit-intellij-starter.js" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Ld2_31" />
+      <recent name="Ld2_14" />
+      <recent name="Ld2_21" />
+      <recent name="Ld2_1" />
+      <recent name="Ld3_14" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Ld2" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+      <recent name="groovy.util.GroovyTestCase" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Artur\IdeaProjects\DS\src\main\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Ld3_14">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HEIGHT" value="0" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="WIDTH" value="0" />
+    </configuration>
+    <configuration name="Ld2_21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ld2_21.Ld2_21" />
+      <module name="DS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ld2_21.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Ld2_28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ld2_28.Ld2_28" />
+      <module name="DS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ld2_28.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Ld2_31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ld2_31.Ld2_31" />
+      <module name="DS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ld2_31.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Ld2_32" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ld2_32.Ld2_32" />
+      <module name="DS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ld2_32.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Ld3_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ld3_14.Ld3_14" />
+      <module name="DS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ld3_14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Ld2_28" />
+      <item itemvalue="Application.Ld2_31" />
+      <item itemvalue="Application.Ld2_32" />
+      <item itemvalue="Application.Ld2_21" />
+      <item itemvalue="Application.Ld3_14" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Ld3_14" />
+        <item itemvalue="Application.Ld2_21" />
+        <item itemvalue="Application.Ld2_32" />
+        <item itemvalue="Application.Ld2_31" />
+        <item itemvalue="Application.Ld2_28" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_PROPERTIES,SHOW_LAMBDA" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbbe6904-eca1-42b3-8811-c7875dd4ff62" name="Default" comment="" />
+      <created>1517479423038</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1517479423038</updated>
+      <workItem from="1517479426898" duration="6926000" />
+      <workItem from="1517497884186" duration="7077000" />
+      <workItem from="1517504995384" duration="19000" />
+      <workItem from="1517510164697" duration="12000" />
+      <workItem from="1517510925294" duration="64000" />
+      <workItem from="1517518221013" duration="154000" />
+      <workItem from="1517577732728" duration="258000" />
+      <workItem from="1517578353992" duration="99000" />
+      <workItem from="1517585084426" duration="684000" />
+      <workItem from="1517586317140" duration="58000" />
+      <workItem from="1517684240305" duration="604000" />
+      <workItem from="1517834121647" duration="353000" />
+      <workItem from="1517838219201" duration="373000" />
+      <workItem from="1517841931371" duration="49000" />
+      <workItem from="1517849481082" duration="78000" />
+      <workItem from="1517855355607" duration="9000" />
+      <workItem from="1517858678826" duration="1033000" />
+      <workItem from="1518266849090" duration="42000" />
+      <workItem from="1518451363836" duration="16000" />
+      <workItem from="1518517259792" duration="19000" />
+      <workItem from="1518690760717" duration="4664000" />
+      <workItem from="1518696318765" duration="618000" />
+      <workItem from="1518697495846" duration="110000" />
+      <workItem from="1518697882470" duration="158000" />
+      <workItem from="1518706767016" duration="191000" />
+      <workItem from="1518707371130" duration="107000" />
+      <workItem from="1518872999435" duration="20439000" />
+      <workItem from="1518894048274" duration="1659000" />
+      <workItem from="1518967576931" duration="33000" />
+      <workItem from="1519037774513" duration="1553000" />
+      <workItem from="1519039416098" duration="871000" />
+      <workItem from="1519628176062" duration="2173000" />
+      <workItem from="1519632970900" duration="723000" />
+      <workItem from="1519639043077" duration="7000" />
+      <workItem from="1519647740058" duration="833000" />
+      <workItem from="1519673328797" duration="1203000" />
+      <workItem from="1519726097110" duration="1115000" />
+      <workItem from="1519744314361" duration="1323000" />
+      <workItem from="1519746796838" duration="712000" />
+      <workItem from="1519749454380" duration="1323000" />
+      <workItem from="1519752122754" duration="3269000" />
+      <workItem from="1519822113462" duration="12000" />
+      <workItem from="1519830083993" duration="1454000" />
+      <workItem from="1519834442911" duration="1485000" />
+      <workItem from="1519836084429" duration="40000" />
+      <workItem from="1519845051607" duration="2998000" />
+      <workItem from="1520064298321" duration="53000" />
+      <workItem from="1520067771915" duration="621000" />
+      <workItem from="1520253152233" duration="147000" />
+      <workItem from="1520265167065" duration="4615000" />
+      <workItem from="1520275969401" duration="44000" />
+      <workItem from="1520279958105" duration="1356000" />
+      <workItem from="1520327134656" duration="430000" />
+      <workItem from="1520329333940" duration="49000" />
+      <workItem from="1520331528881" duration="450000" />
+      <workItem from="1520355478259" duration="320000" />
+      <workItem from="1520355864739" duration="35000" />
+      <workItem from="1520358750073" duration="40000" />
+      <workItem from="1520968831762" duration="1149000" />
+      <workItem from="1521015360073" duration="14000" />
+      <workItem from="1521051335446" duration="1938000" />
+      <workItem from="1521107954293" duration="1303000" />
+      <workItem from="1521109780478" duration="67000" />
+      <workItem from="1521109919614" duration="3465000" />
+      <workItem from="1521115097449" duration="894000" />
+      <workItem from="1521119936073" duration="2203000" />
+      <workItem from="1521124285702" duration="5152000" />
+      <workItem from="1521136505320" duration="382000" />
+      <workItem from="1521137052308" duration="62000" />
+      <workItem from="1521548492165" duration="4737000" />
+      <workItem from="1521555150118" duration="1251000" />
+      <workItem from="1521566287848" duration="5384000" />
+      <workItem from="1521572113208" duration="29000" />
+      <workItem from="1521578254697" duration="15000" />
+      <workItem from="1521625788380" duration="697000" />
+      <workItem from="1521627580645" duration="609000" />
+      <workItem from="1521636578318" duration="8000" />
+      <workItem from="1521981816708" duration="805000" />
+      <workItem from="1521982897197" duration="455000" />
+      <workItem from="1521983375342" duration="655000" />
+      <workItem from="1521993825391" duration="482000" />
+      <workItem from="1522083136095" duration="780000" />
+      <workItem from="1522133685540" duration="2173000" />
+      <workItem from="1522330056473" duration="73000" />
+      <workItem from="1522330378423" duration="75000" />
+      <workItem from="1522330846273" duration="12000" />
+      <workItem from="1522331030114" duration="4000" />
+      <workItem from="1522331589489" duration="106000" />
+      <workItem from="1522331784773" duration="17000" />
+      <workItem from="1522342088753" duration="121000" />
+      <workItem from="1522352569904" duration="247000" />
+      <workItem from="1522405102534" duration="1766000" />
+      <workItem from="1522407009956" duration="1325000" />
+      <workItem from="1522409086140" duration="26000" />
+      <workItem from="1522409141655" duration="212000" />
+      <workItem from="1522409530309" duration="211000" />
+      <workItem from="1522410155989" duration="101000" />
+      <workItem from="1522411355552" duration="22000" />
+      <workItem from="1522423260125" duration="15000" />
+      <workItem from="1522423285506" duration="40000" />
+      <workItem from="1522432669441" duration="569000" />
+      <workItem from="1522433562152" duration="471000" />
+      <workItem from="1522434181294" duration="2511000" />
+      <workItem from="1522436714004" duration="145000" />
+      <workItem from="1522436877566" duration="2410000" />
+      <workItem from="1522439320162" duration="1489000" />
+      <workItem from="1522440934661" duration="340000" />
+      <workItem from="1522486332575" duration="11155000" />
+      <workItem from="1522497689995" duration="11463000" />
+      <workItem from="1522509358259" duration="16000" />
+      <workItem from="1522509535457" duration="16000" />
+      <workItem from="1522512736449" duration="17000" />
+      <workItem from="1522512964522" duration="547000" />
+      <workItem from="1522515389934" duration="81000" />
+      <workItem from="1522515823923" duration="543000" />
+      <workItem from="1522516839333" duration="370000" />
+      <workItem from="1522517319637" duration="755000" />
+      <workItem from="1522518099659" duration="16000" />
+      <workItem from="1522518212711" duration="1380000" />
+      <workItem from="1522569180397" duration="9522000" />
+      <workItem from="1522580744322" duration="666000" />
+      <workItem from="1522583605256" duration="1060000" />
+      <workItem from="1522588629039" duration="7000" />
+      <workItem from="1522591703605" duration="2449000" />
+      <workItem from="1522595551801" duration="1502000" />
+      <workItem from="1522597509058" duration="101000" />
+      <workItem from="1522606973042" duration="2096000" />
+      <workItem from="1522609400561" duration="15000" />
+      <workItem from="1522666698115" duration="324000" />
+      <workItem from="1522673451325" duration="315000" />
+      <workItem from="1522680046002" duration="249000" />
+      <workItem from="1522682138523" duration="257000" />
+      <workItem from="1522683553491" duration="6000" />
+      <workItem from="1522684919192" duration="157000" />
+      <workItem from="1522687430128" duration="994000" />
+      <workItem from="1522688501757" duration="63000" />
+      <workItem from="1522688580883" duration="796000" />
+      <workItem from="1522689398563" duration="249000" />
+      <workItem from="1522690683102" duration="5282000" />
+      <workItem from="1522696375438" duration="60000" />
+      <workItem from="1522737306466" duration="5442000" />
+      <workItem from="1522745774234" duration="277000" />
+      <workItem from="1522747250341" duration="80000" />
+      <workItem from="1522750252388" duration="125000" />
+      <workItem from="1522750432159" duration="17000" />
+      <workItem from="1522751950551" duration="528000" />
+      <workItem from="1522761125574" duration="7674000" />
+      <workItem from="1522779372555" duration="113000" />
+      <workItem from="1522779967271" duration="1406000" />
+      <workItem from="1522782576455" duration="548000" />
+      <workItem from="1522783687051" duration="1472000" />
+      <workItem from="1522825679753" duration="441000" />
+      <workItem from="1522831664236" duration="1249000" />
+      <workItem from="1522839841259" duration="82000" />
+      <workItem from="1522848526942" duration="3856000" />
+      <workItem from="1522864081724" duration="2060000" />
+      <workItem from="1522870055792" duration="25000" />
+      <workItem from="1522870370912" duration="958000" />
+      <workItem from="1522871351851" duration="17000" />
+      <workItem from="1522907059684" duration="638000" />
+      <workItem from="1522919689997" duration="178000" />
+      <workItem from="1522920055058" duration="568000" />
+      <workItem from="1522921627696" duration="3496000" />
+      <workItem from="1522926023847" duration="630000" />
+      <workItem from="1522937974945" duration="1752000" />
+      <workItem from="1522940149483" duration="108000" />
+      <workItem from="1522940279205" duration="67000" />
+    </task>
+    <task id="LOCAL-00001" summary="ver 1.2">
+      <created>1522441068392</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1522441068392</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ver 1.3">
+      <created>1522506319450</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1522506319450</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ver 1.2">
+      <created>1522506463594</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1522506463594</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ver 1.2.1">
+      <created>1522507708391</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1522507708391</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ver 1.2.1">
+      <created>1522508028949</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1522508028949</updated>
+    </task>
+    <task id="LOCAL-00006" summary="ver 1.2.1">
+      <created>1522508233398</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1522508233398</updated>
+    </task>
+    <task id="LOCAL-00007" summary="ver 1.2.2">
+      <created>1522508340418</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1522508340418</updated>
+    </task>
+    <task id="LOCAL-00008" summary="ver 1.2.2">
+      <created>1522508483869</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1522508483869</updated>
+    </task>
+    <task id="LOCAL-00009" summary="ver 1.2.2">
+      <created>1522508851369</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1522508851369</updated>
+    </task>
+    <task id="LOCAL-00010" summary="ver 1.2.1">
+      <created>1522508961230</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1522508961230</updated>
+    </task>
+    <task id="LOCAL-00011" summary="ver 1.2.2">
+      <created>1522509093777</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1522509093777</updated>
+    </task>
+    <task id="LOCAL-00012" summary="ver 1.2.1">
+      <created>1522580806817</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1522580806817</updated>
+    </task>
+    <task id="LOCAL-00013" summary="ver 1.2.1">
+      <created>1522581224621</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1522581224621</updated>
+    </task>
+    <task id="LOCAL-00014" summary="ver 1.2.1">
+      <created>1522581286417</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1522581286417</updated>
+    </task>
+    <task id="LOCAL-00015" summary="ver 1.2.1">
+      <created>1522594495573</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1522594495573</updated>
+    </task>
+    <task id="LOCAL-00016" summary="ver 1.2.1">
+      <created>1522689320704</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1522689320704</updated>
+    </task>
+    <task id="LOCAL-00017" summary="ver 1.2.2">
+      <created>1522695695811</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1522695695811</updated>
+    </task>
+    <task id="LOCAL-00018" summary="ver 1.2.2">
+      <created>1522742656973</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1522742656973</updated>
+    </task>
+    <task id="LOCAL-00019" summary="ver 1.2.3">
+      <created>1522785374684</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1522785374684</updated>
+    </task>
+    <task id="LOCAL-00020" summary="ver 1.2.1">
+      <created>1522864128594</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1522864128594</updated>
+    </task>
+    <task id="LOCAL-00021" summary="ver 1.2.3">
+      <created>1522864178269</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1522864178269</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Ld2_28Test - 2018.04.02 at 21h 59m 24s.xml">
+      <configuration name="Ld2_28Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Ld2_14Test - 2018.04.02 at 22h 00m 19s.xml">
+      <configuration name="Ld2_14Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Ld2_14Test - 2018.04.02 at 22h 00m 24s.xml">
+      <configuration name="Ld2_14Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DoubleCirkLinkedListTest - 2018.04.03 at 10h 23m 56s.xml">
+      <configuration name="DoubleCirkLinkedListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DoubleCirkLinkedListTest_testInsertWhileIsNotFull - 2018.04.03 at 10h 24m 52s.xml">
+      <configuration name="DoubleCirkLinkedListTest.testInsertWhileIsNotFull" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Ld2_14Test_testIsEmpty - 2018.04.03 at 11h 57m 01s.xml">
+      <configuration name="Ld2_14Test.testIsEmpty" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DoubleCirkLinkedListTest - 2018.04.03 at 11h 58m 46s.xml">
+      <configuration name="DoubleCirkLinkedListTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Ld2_14Test_testIsEmpty - 2018.04.04 at 10h 12m 28s.xml">
+      <configuration name="Ld2_14Test.testIsEmpty" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Ld2_14Test - 2018.04.04 at 10h 12m 32s.xml">
+      <configuration name="Ld2_14Test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DoubleCirkLinkedListTest - 2018.04.04 at 10h 14m 29s.xml">
+      <configuration name="DoubleCirkLinkedListTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="208513000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" x="1657" y="177" width="166" height="729" id="Palette" internal_type="FLOATING" order="0" type="FLOATING" />
+      <window_info anchor="bottom" id="TODO" order="9" weight="0.32905984" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.5013423" side_tool="true" weight="0.32621083" />
+      <window_info anchor="right" id="Maven Projects" order="1" weight="0.32975295" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="1" show_stripe_button="false" sideWeight="0.49932885" weight="0.32905984" />
+      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.49932885" weight="0.3903134" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="2" sideWeight="0.4986577" visible="true" weight="0.32621083" />
+      <window_info id="Designer" order="1" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.497151" visible="true" weight="0.18791947" />
+      <window_info anchor="right" id="Database" order="2" weight="0.45" />
+      <window_info id="Structure" order="6" sideWeight="0.502849" side_tool="true" weight="0.23020135" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.24966443" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Favorites" order="4" sideWeight="0.5014245" side_tool="true" weight="0.21006711" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.5769231" />
+      <window_info active="true" anchor="right" id="Coverage" order="9" side_tool="true" visible="true" weight="0.32975295" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.24966443" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49932885" weight="0.37037036" />
+      <window_info anchor="right" id="Commander" order="6" weight="0.4" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" weight="0.32905984" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info id="Capture Tool" order="0" />
+      <window_info anchor="bottom" id="Message" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" x="1657" y="177" width="166" height="729" id="Palette" internal_type="FLOATING" order="0" type="FLOATING" />
+      <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.49932885" weight="0.32621083" />
+      <window_info anchor="bottom" id="Find" order="4" weight="0.32905984" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.24966443" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="1" sideWeight="0.49932885" weight="0.32905984" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.497151" visible="true" weight="0.15503356" />
+      <window_info id="Structure" order="6" sideWeight="0.502849" side_tool="true" weight="0.23020135" />
+      <window_info anchor="right" id="Commander" order="6" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.24966443" />
+      <window_info anchor="bottom" id="TODO" order="9" weight="0.32905984" />
+      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.49932885" weight="0.32051283" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="right" id="Database" order="2" weight="0.45" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info active="true" anchor="right" id="Coverage" order="9" side_tool="true" visible="true" weight="0.32975295" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.41880342" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.50067115" side_tool="true" weight="0.9145299" />
+      <window_info id="Capture Tool" order="0" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info active="true" anchor="bottom" id="Messages" order="11" sideWeight="0.49932885" visible="true" weight="0.37037036" />
+      <window_info anchor="right" id="Maven Projects" order="1" weight="0.32975295" />
+      <window_info id="Favorites" order="4" sideWeight="0.5014245" side_tool="true" weight="0.21006711" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+      <path value="$USER_HOME$" />
+    </ignored-roots>
+    <MESSAGE value="ver 1.3" />
+    <MESSAGE value="ver 1.2" />
+    <MESSAGE value="ver 1.2.2" />
+    <MESSAGE value="ver 1.2.1" />
+    <MESSAGE value="ver 1.2.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="ver 1.2.3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/Ld3_14/Ld3_14Test.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Ld2_21/Ld2_21.java</url>
+          <line>118</line>
+          <properties />
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Ld2_31/Ld2_31.java</url>
+          <line>88</line>
+          <properties />
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Ld2_32/Ld2_32.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Ld1/Ld1_3.java</url>
+          <line>73</line>
+          <properties />
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Ld3_14/Ld3_14.java</url>
+          <line>122</line>
+          <properties />
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Ld2_31/Ld2_31.java</url>
+          <line>64</line>
+          <properties class="Ld2_31.DoubleCirkLinkedList" method="listOut">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="93" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ld2_1/Ld2_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3451">
+          <caret line="203" selection-start-line="203" selection-end-line="203" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ld3_14/Ld3_14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="76" column="13" selection-start-line="76" selection-start-column="13" selection-end-line="76" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ld2_28/Ld2_28.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ld2_14/Ld2_14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1207">
+          <caret line="71" column="12" selection-start-line="71" selection-start-column="12" selection-end-line="72" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ld2_1/Ld2_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3451">
+          <caret line="203" lean-forward="true" selection-start-line="203" selection-end-line="203" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ld3_14/Ld3_14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="76" column="13" selection-start-line="76" selection-start-column="13" selection-end-line="76" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ld2_14/Ld2_14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="71" column="12" lean-forward="true" selection-start-line="71" selection-start-column="12" selection-end-line="72" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ld2_28/Ld2_28.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ld3_14/Ld3_14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="76" column="13" selection-start-line="76" selection-start-column="13" selection-end-line="76" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ld3_14/Ld3_14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="76" column="13" selection-start-line="76" selection-start-column="13" selection-end-line="76" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ld2_1/Ld2_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ld2_14/Ld2_14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="39" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ld1/Ld1_14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2478">
+          <caret line="118" column="9" selection-start-line="118" selection-start-column="9" selection-end-line="118" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ld2_14/Ld2_14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="39" lean-forward="true" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ld2_14/Ld2_14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="42" column="17" selection-start-line="42" selection-start-column="17" selection-end-line="42" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_141/jre/lib/rt.jar!/java/util/Vector.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4746">
+          <caret line="226" selection-start-line="226" selection-end-line="226" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_141/jre/lib/rt.jar!/java/util/Vector.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-789">
+          <caret line="35" column="20" lean-forward="true" selection-start-line="35" selection-start-column="20" selection-end-line="35" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Ld3_30.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/Ld3_14test/Ld3_14test.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/test/Ld3_14test.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/Ld3_14test.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/Ld3_14/QueueTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/Ld3_14/Ld3_14Test.groovy" />
+    <entry file="uml://MODULES/mdl-DS">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>MODULES</ID>
+          <OriginalElement>mdl-DS</OriginalElement>
+          <nodes>
+            <node x="" y="">mdl-DS</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="48.0" y="15.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.1.0/junit-platform-commons-1.1.0.jar!/org/junit/platform/commons/util/ReflectionUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="201" selection-start-line="201" selection-end-line="201" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ld1/Ld1_32.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="171" column="5" lean-forward="true" selection-start-line="171" selection-start-column="5" selection-end-line="171" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ld1/Ld1_7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-187">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ld1/Ld1_16.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/Ld2_28.Ld2_28">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>Ld2_28.Ld2_28</OriginalElement>
+          <nodes>
+            <node x="" y="">Ld2_28.Ld2_28</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="42.0" y="15.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ld1/Ld1_5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Ld3_14/Ld3_14Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Ld2_1/SinglyLinkedListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" column="26" lean-forward="true" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Ld2_14/CircularLinkedListTest.java" />
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_141/jre/lib/rt.jar!/java/util/function/BooleanSupplier.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Ld2_28/Ld2_28Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Ld2_21/SinglyCircularLinkedListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="42" column="5" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Ld2_31/DoubleCirkLinkedListTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="51" lean-forward="true" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ld1/Ld1_11.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ld1/Ld1_17.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="13" column="37" selection-end-line="150" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ld1/Ld1_14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2550">
+          <caret line="154" column="12" selection-start-line="154" selection-start-column="12" selection-end-line="155" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="32" lean-forward="true" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Ld2_14/Ld2_14Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ld2_14/Ld2_14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2975">
+          <caret line="192" column="39" selection-start-line="192" selection-start-column="39" selection-end-line="192" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ld1/Ld1_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="118" column="44" selection-start-line="118" selection-start-column="44" selection-end-line="118" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ld2_1/Ld2_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153">
+          <caret line="193" column="13" selection-start-line="193" selection-start-column="13" selection-end-line="193" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ld2_31/Ld2_31.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="172" column="13" selection-start-line="172" selection-start-column="13" selection-end-line="172" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ld2_32/Ld2_32.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="200" column="1" selection-start-line="200" selection-start-column="1" selection-end-line="200" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#listOut#0;class#DoubleCircularLinkedList#0" />
+            <element signature="method#deleteElementAt#0;class#DoubleCircularLinkedList#0" />
+            <element signature="method#insert#0;class#DoubleCircularLinkedList#0" />
+            <element signature="method#intervalCount#0;class#DoubleCircularLinkedList#0" />
+            <element signature="method#insertAtFirst#0;class#DoubleCircularLinkedList#0" />
+            <element signature="method#insertAtLast#0;class#DoubleCircularLinkedList#0" />
+            <element signature="method#insertAt#0;class#DoubleCircularLinkedList#0" />
+            <element signature="method#getElementAt#0;class#DoubleCircularLinkedList#0" />
+            <element signature="method#getNodeAt#0;class#DoubleCircularLinkedList#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ld2_28/Ld2_28.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="205" column="13" selection-start-line="205" selection-start-column="13" selection-end-line="205" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ld2_3/Ld2_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="178" column="45" lean-forward="true" selection-start-line="178" selection-start-column="45" selection-end-line="178" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ld2_21/Ld2_21.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1563">
+          <caret line="190" column="34" lean-forward="true" selection-start-line="190" selection-start-column="34" selection-end-line="190" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#setNext#0;class#Node#0" />
+            <element signature="method#deleteElementAt#0;class#SinglyCircularLinkedList#0" />
+            <element signature="method#evenNumberCount#0;class#SinglyCircularLinkedList#0" />
+            <element signature="method#listOut#0;class#SinglyCircularLinkedList#0" />
+            <element signature="method#getElementAt#0;class#SinglyCircularLinkedList#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ld3_14/Ld3_14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="100" column="9" selection-start-line="100" selection-start-column="9" selection-end-line="100" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>DS</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.apiguardian:apiguardian-api:1.0.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
