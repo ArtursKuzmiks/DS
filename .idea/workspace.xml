@@ -1,80 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bbbe6904-eca1-42b3-8811-c7875dd4ff62" name="Default" comment="ver 1.2.3">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_1_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_0_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ld1/Ld1_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ld1/Ld1_14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ld1/Ld1_16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ld1/Ld1_17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ld1/Ld1_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ld1/Ld1_32.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ld1/Ld1_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ld1/Ld1_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ld2_1/Ld2_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ld2_14/Ld2_14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ld2_21/Ld2_21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ld2_28/Ld2_28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ld2_3/Ld2_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ld2_31/Ld2_31.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ld2_32/Ld2_32.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ld3_14/Ld3_14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Ld2_1/SinglyLinkedListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Ld2_14/Ld2_14Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Ld2_21/SinglyCircularLinkedListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Ld2_28/Ld2_28Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Ld2_31/DoubleCirkLinkedListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Ld3_14/Ld3_14Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Ld1/Ld1_11.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Ld1/Ld1_14.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Ld1/Ld1_16.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Ld1/Ld1_17.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Ld1/Ld1_3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Ld1/Ld1_32.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Ld1/Ld1_5.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Ld1/Ld1_7.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Ld2_1/Ld2_1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Ld2_1/Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Ld2_1/SinglyLinkedList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Ld2_14/CircularLinkedList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Ld2_14/Ld2_14.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Ld2_14/Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Ld2_21/Ld2_21.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Ld2_21/Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Ld2_21/SinglyCircularLinkedList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Ld2_28/DoubleLinkedList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Ld2_28/Ld2_28.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Ld2_28/Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Ld2_3/DoubleLinkedList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Ld2_3/Ld2_3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Ld2_3/Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Ld2_31/DoubleCirkLinkedList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Ld2_31/Ld2_31.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Ld2_31/Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Ld2_32/DoubleCircularLinkedList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Ld2_32/Ld2_32.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Ld2_32/Node.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Ld3_14/Ld3_14.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Ld3_14/Queue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Ld2_1/SinglyLinkedListTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Ld2_14/Ld2_14Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Ld2_21/SinglyCircularLinkedListTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Ld2_28/Ld2_28Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Ld2_31/DoubleCirkLinkedListTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Ld3_14/Ld3_14Test.class" afterDir="false" />
-    </list>
+    <list default="true" id="bbbe6904-eca1-42b3-8811-c7875dd4ff62" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -203,7 +130,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="950" />
     <option name="width" value="980" />
     <option name="height" value="1040" />
@@ -619,7 +546,7 @@
       <workItem from="1522926023847" duration="630000" />
       <workItem from="1522937974945" duration="1752000" />
       <workItem from="1522940149483" duration="108000" />
-      <workItem from="1522940279205" duration="67000" />
+      <workItem from="1522940279205" duration="391000" />
     </task>
     <task id="LOCAL-00001" summary="ver 1.2">
       <created>1522441068392</created>
@@ -768,7 +695,14 @@
       <option name="project" value="LOCAL" />
       <updated>1522864178269</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="ver 1.2.3">
+      <created>1522940384734</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1522940384734</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -804,7 +738,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="208513000" />
+    <option name="totallyTimeSpent" value="208837000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -816,20 +750,19 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
+    <frame x="760" y="0" width="784" height="832" extended-state="0" />
     <layout>
       <window_info anchor="right" x="1657" y="177" width="166" height="729" id="Palette" internal_type="FLOATING" order="0" type="FLOATING" />
       <window_info anchor="bottom" id="TODO" order="9" weight="0.32905984" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.5013423" side_tool="true" weight="0.32621083" />
+      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.50276244" side_tool="true" visible="true" weight="0.32902297" />
       <window_info anchor="right" id="Maven Projects" order="1" weight="0.32975295" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="1" show_stripe_button="false" sideWeight="0.49932885" weight="0.32905984" />
+      <window_info anchor="bottom" id="Version Control" order="1" sideWeight="0.49932885" weight="0.32905984" />
       <window_info anchor="bottom" id="Run" order="5" sideWeight="0.49932885" weight="0.3903134" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="2" sideWeight="0.4986577" visible="true" weight="0.32621083" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="2" sideWeight="0.49723756" visible="true" weight="0.32902297" />
       <window_info id="Designer" order="1" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.497151" visible="true" weight="0.18791947" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.497151" visible="true" weight="0.38674033" />
       <window_info anchor="right" id="Database" order="2" weight="0.45" />
       <window_info id="Structure" order="6" sideWeight="0.502849" side_tool="true" weight="0.23020135" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.24966443" />
