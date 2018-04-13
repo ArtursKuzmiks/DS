@@ -38,13 +38,13 @@ class Node {
 
 }
 
-class DoubleCirkLinkedList {
+class DoubleCircLinkedList {
 
     private Node start;
     private int maxSize;
     private int size;
 
-    DoubleCirkLinkedList(int maxSize) {
+    DoubleCircLinkedList(int maxSize) {
         this.maxSize = maxSize;
         this.start = null;
         size = 0;
@@ -172,7 +172,7 @@ class DoubleCirkLinkedList {
 
 public class Ld2_31 {
 
-    private static DoubleCirkLinkedList list = new DoubleCirkLinkedList(10);
+    private static DoubleCircLinkedList list = new DoubleCircLinkedList(10);
 
     public static void main(String[] args) throws IOException {
 
@@ -214,7 +214,7 @@ public class Ld2_31 {
                         System.out.print("Ievaddati: ");
                         String str = br.readLine();
                         if (create)
-                            list = new DoubleCirkLinkedList(10);
+                            list = new DoubleCircLinkedList(10);
                         if (Integer.parseInt(str) == 1) {
                             System.out.print("Ivadiet pirma elementa vertibu: ");
                             list.insertAtFirst(Integer.parseInt(br.readLine()));

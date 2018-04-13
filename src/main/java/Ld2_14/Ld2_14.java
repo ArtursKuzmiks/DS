@@ -188,7 +188,7 @@ class CircularLinkedList {
 
 public class Ld2_14 {
 
-    private static CircularLinkedList cirkulList = new CircularLinkedList(10);
+    private static CircularLinkedList cirkulList;
 
     public static void main(String[] args) throws IOException {
 
@@ -199,7 +199,7 @@ public class Ld2_14 {
         System.out.println("Arturs Kuzmiks 12.gr. 111REB779");
         System.out.println("Izvelne:");
 
-        try(BufferedReader br = new BufferedReader(new InputStreamReader(System.in))) {
+        try (BufferedReader br = new BufferedReader(new InputStreamReader(System.in))) {
             loop:
             for (; ; ) {
 
@@ -225,12 +225,13 @@ public class Ld2_14 {
 
                 switch (izvel) {
                     case 1:
+                        System.out.print("Ievadiet rindas Size: ");
+                        int size = Integer.parseInt(br.readLine());
                         System.out.println("Ivadit datus saraksta ar roku       : 1");
                         System.out.println("Ivadit datus saraksta ar random util: 2");
                         System.out.print("Ievaddati: ");
                         String str = br.readLine();
-                        if (listCreate)
-                            cirkulList = new CircularLinkedList(10);
+                        cirkulList = new CircularLinkedList(size);
                         if (Integer.parseInt(str) == 1) {
                             System.out.println("Ivadiet vertibas:");
                             while (!cirkulList.isFull()) {
