@@ -93,6 +93,7 @@ class QueueLink {
         if (!isEmpty()) {
             System.out.println("\nIr izniemts no rindas elements " + head.getData());
             head = head.getNext();
+            size--;
         } else System.out.println("Rinda ir tuksa");
     }
 
@@ -117,6 +118,7 @@ public class Ld3_20 {
         Random rd = new Random();
         int izvel;
         boolean queue = false;
+        int size = 0;
 
         System.out.println("Info");
         System.out.println("Izvelne:");
@@ -150,7 +152,7 @@ public class Ld3_20 {
                 switch (izvel) {
                     case 1:
                         System.out.print("Ievadiet rindas size: ");
-                        int size = Integer.parseInt(br.readLine());
+                        size = Integer.parseInt(br.readLine());
                         que = new QueueLink(size);
                         System.out.println("Ivadit datus saraksta ar roku       :1");
                         System.out.println("Ivadit datus saraksta ar random util:2");
@@ -190,7 +192,7 @@ public class Ld3_20 {
                         System.out.println("Method Empty ir patiess ja rinda ir tukssa: " + que.isEmpty());
                         break;
                     case 6:
-                        System.out.println("Method Full ir patiess ja rinda ir 10 elementi: " + que.isFull());
+                        System.out.println("Method Full ir patiess ja rinda ir "+size+" elementi: " + que.isFull());
                         break;
                     case 7:
                         if (que.isEmpty())
