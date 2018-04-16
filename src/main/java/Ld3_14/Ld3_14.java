@@ -15,7 +15,9 @@ class Queue {
 
     Queue(int maxSize) {
         if (maxSize <= 0)
-            throw new IllegalArgumentException("Size must be greater 0");
+            throw new IllegalStateException("Size must be greater 0");
+        if (maxSize > 15)
+            throw new IllegalStateException("MaxSize: 15");
         this.maxSize = maxSize;
         this.vec = new Vector<>();
     }
@@ -72,56 +74,53 @@ class Queue {
 }
 
 public class Ld3_14 {
-
-    private static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-    private static final String ANSI_RED = "\u001B[31m";
-    private static final String ANSI_RESET = "\u001B[0m";
     private static Queue que;
 
     public static void main(String[] args) throws IOException {
 
-        Random rd = new Random();
-        int izvel;
+        Random random = new Random();
+        int menu;
+        int size = 0;
         boolean queue = false;
 
         System.out.println("Arturs Kuzmiks 12.gr. 111REB779");
         System.out.println("Izvelne:");
 
-        try {
+        try (BufferedReader br = new BufferedReader(new InputStreamReader(System.in))) {
 
             loop:
             for (; ; ) {
 
                 if (queue) {
-                    System.out.println("\nIzveidot jautu rindu                     : " + ANSI_RED + "1" + ANSI_RESET);
-                    System.out.println("Pievienot elementu rindai                : " + ANSI_RED + "2" + ANSI_RESET);
-                    System.out.println("Izmest elementu no rindas                : " + ANSI_RED + "3" + ANSI_RESET);
-                    System.out.println("Metode Size                              : " + ANSI_RED + "4" + ANSI_RESET);
-                    System.out.println("Metode Empty                             : " + ANSI_RED + "5" + ANSI_RESET);
-                    System.out.println("Metode Full                              : " + ANSI_RED + "6" + ANSI_RESET);
-                    System.out.println("Metode Peek                              : " + ANSI_RED + "7" + ANSI_RESET);
-                    System.out.println("Negativo elementu skaits rinda           : " + ANSI_RED + "8" + ANSI_RESET);
-                    System.out.println("Rindas   izvade                          : " + ANSI_RED + "9" + ANSI_RESET);
-                    System.out.println("Ja velaties iziet no sistemas nospiediet : " + ANSI_RED + "0" + ANSI_RESET);
-                    System.out.print("\u001B[36m" + "Ievaddati: " + "\u001B[0m");
-                    izvel = Integer.parseInt(br.readLine());
+                    System.out.println("\nIzveidot jautu rindu                     : 1");
+                    System.out.println("Pievienot elementu rindai                : 2");
+                    System.out.println("Izmest elementu no rindas                : 3");
+                    System.out.println("Metode Size                              : 4");
+                    System.out.println("Metode Empty                             : 5");
+                    System.out.println("Metode Full                              : 6");
+                    System.out.println("Metode Peek                              : 7");
+                    System.out.println("Negativo elementu skaits rinda           : 8");
+                    System.out.println("Rindas   izvade                          : 9");
+                    System.out.println("Ja velaties iziet no sistemas nospiediet : 0");
+                    System.out.print("Ievaddati: ");
+                    menu = Integer.parseInt(br.readLine());
                 } else {
                     System.out.print("Rinda nav izveidota, izvedot rindu(y/n): ");
                     String str = br.readLine();
                     if (str.equals("Y") || str.equals("y"))
-                        izvel = 1;
-                    else izvel = 0;
+                        menu = 1;
+                    else menu = 0;
                 }
 
-                switch (izvel) {
+                switch (menu) {
                     case 1:
-                        System.out.print("Ievadiet Rindas MaxSize: ");
-                        int size = Integer.parseInt(br.readLine());
-                        System.out.println("Ivadit datus saraksta ar roku       : " + ANSI_RED + "1" + ANSI_RESET);
-                        System.out.println("Ivadit datus saraksta ar random util: " + ANSI_RED + "2" + ANSI_RESET);
-                        System.out.print("\u001B[36m" + "Ievaddati: " + "\u001B[0m");
-                        String str = br.readLine();
+                        System.out.print("Ievadiet rindas size: ");
+                        size = Integer.parseInt(br.readLine());
                         que = new Queue(size);
+                        System.out.println("Ivadit datus saraksta ar roku       : 1");
+                        System.out.println("Ivadit datus saraksta ar random util: 2");
+                        System.out.print("Ievaddati: ");
+                        String str = br.readLine();
                         if (Integer.parseInt(str) == 1) {
                             System.out.println("Ivadiet vertibas:");
                             while (!que.isFull()) {
@@ -130,7 +129,7 @@ public class Ld3_14 {
                         } else {
                             if (Integer.parseInt(str) == 2) {
                                 while (!que.isFull()) {
-                                    que.enqueue(rd.nextInt(35) - 15);
+                                    que.enqueue(random.nextInt(35) - 15);
                                 }
                             } else {
                                 System.out.println("Darbs pabeigts");
@@ -156,7 +155,7 @@ public class Ld3_14 {
                         System.out.println("Method Empty ir patiess ja rinda ir tukssa: " + que.isEmpty());
                         break;
                     case 6:
-                        System.out.println("Method Full ir patiess ja rinda ir 10 elementi: " + que.isFull());
+                        System.out.println("Method Full ir patiess ja rinda ir " + size + " elementi: " + que.isFull());
                         break;
                     case 7:
                         if (que.isEmpty())
@@ -174,7 +173,7 @@ public class Ld3_14 {
                         System.out.println("Darbs ir pabeigts");
                         break loop;
                     default:
-                        System.out.println(ANSI_RED + "Nav tadu variantu, meiginet vel reiz." + ANSI_RESET);
+                        System.out.println("Nav tadu variantu, meiginet vel reiz.");
                         que.outQueue();
                         break;
                 }
@@ -182,6 +181,8 @@ public class Ld3_14 {
 
         } catch (IllegalArgumentException e) {
             System.out.println("Ievaddatu kluda");
+        }catch (IllegalStateException ex){
+            System.out.println(ex.getMessage());
         }
     }
 }
