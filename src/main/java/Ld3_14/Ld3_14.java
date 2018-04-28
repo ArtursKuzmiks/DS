@@ -105,7 +105,7 @@ public class Ld3_14 {
                     System.out.print("Ievaddati: ");
                     menu = Integer.parseInt(br.readLine());
                 } else {
-                    System.out.print("Rinda nav izveidota, izvedot rindu(y/n): ");
+                    System.out.print("Rinda nav izveidota, izvedot rindu (y/n): ");
                     String str = br.readLine();
                     if (str.equals("Y") || str.equals("y"))
                         menu = 1;
@@ -117,8 +117,8 @@ public class Ld3_14 {
                         System.out.print("Ievadiet rindas size: ");
                         size = Integer.parseInt(br.readLine());
                         que = new Queue(size);
-                        System.out.println("Ivadit datus saraksta ar roku       : 1");
-                        System.out.println("Ivadit datus saraksta ar random util: 2");
+                        System.out.println("Ivadit datus ar roku       : 1");
+                        System.out.println("Ivadit datus ar random util: 2");
                         System.out.print("Ievaddati: ");
                         String str = br.readLine();
                         if (Integer.parseInt(str) == 1) {

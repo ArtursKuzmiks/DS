@@ -1,11 +1,138 @@
-package Ld4_14;
+package Ld4_2;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Random;
 
-public class Ld4_14 {
+class Node {
+    private int data;
+    private Node left;
+    private Node right;
+
+    Node(int data) {
+        this.data = data;
+        this.left = null;
+        this.right = null;
+
+    }
+
+    int getData() {
+        return data;
+    }
+
+    Node getLeft() {
+        return left;
+    }
+
+    void setLeft(Node left) {
+        this.left = left;
+    }
+
+    Node getRight() {
+        return right;
+    }
+
+    void setRight(Node right) {
+        this.right = right;
+    }
+}
+
+
+class BinarySearchTree {
+
+    private Node root;
+    private int size;
+    private int maxSize;
+
+    BinarySearchTree(int maxSize) {
+        this.root = null;
+        this.size = 0;
+        this.maxSize = maxSize;
+        if (maxSize <= 0)
+            throw new IllegalStateException("Size must be greater 0");
+        if (maxSize > 15)
+            throw new IllegalStateException("MaxSize: 15");
+    }
+
+    boolean isFull() {
+        return size == maxSize;
+    }
+
+    void add(int data) {
+        if (!isFull())
+            root = insert(root, data);
+    }
+
+    private int leavesCount(Node node) {
+        int count = 0;
+        if (node != null) {
+            if (node.getLeft() == null && node.getRight() == null) {
+                count++;
+            }
+            count += leavesCount(node.getLeft());
+            count += leavesCount(node.getRight());
+        }
+        return count;
+    }
+
+    private int evenNumberCount(Node node) {
+        int count = 0;
+        if (node != null) {
+            if (node.getData() % 2 == 0) count++;
+            count += evenNumberCount(node.getLeft());
+            count += evenNumberCount(node.getRight());
+        }
+        return count;
+
+    }
+
+    private void traversePostOrd(Node node) {
+        if (node != null) {
+            traversePostOrd(node.getLeft());
+            traversePostOrd(node.getRight());
+            System.out.print(node.getData() + "\t");
+        }
+    }
+
+    private Node insert(Node current, int data) {
+        if (current == null) {
+            size++;
+            return new Node(data);
+        }
+        if (data < current.getData()) {
+            current.setLeft(insert(current.getLeft(), data));
+        } else {
+            if (data > current.getData()) {
+                current.setRight(insert(current.getRight(), data));
+            } else return current;
+        }
+        return current;
+    }
+
+    int getSize() {
+        return size;
+    }
+
+    boolean isEmpty() {
+        return root == null;
+    }
+
+    int leavesCount() {
+        return leavesCount(root);
+    }
+
+    int evenCount() {
+        return evenNumberCount(root);
+    }
+
+    void postOrder() {
+        traversePostOrd(root);
+    }
+
+}
+
+public class Ld4_2 {
 
     private static BinarySearchTree bt;
 
@@ -15,7 +142,7 @@ public class Ld4_14 {
         int menu;
         boolean treeCreate = false;
 
-        System.out.println("Arturs Kuzmiks 12.gr. 111REB779");
+        System.out.println("INFO");
         System.out.println("Izvelne:");
 
         try (BufferedReader br = new BufferedReader(new InputStreamReader(System.in))) {
@@ -24,7 +151,7 @@ public class Ld4_14 {
 
                 if (treeCreate) {
                     System.out.println("\nIzveidot jaunu koku                      : 1");
-                    System.out.println("Virsotnes skaits ar diviem berniem       : 2");
+                    System.out.println("Lapu skaits                              : 2");
                     System.out.println("Para elementu skaits koka                : 3");
                     System.out.println("Koka izvade                              : 4");
                     System.out.println("Pabeigt darbu                            : 0");
@@ -68,8 +195,8 @@ public class Ld4_14 {
                         bt.postOrder();
                         break;
                     case 2:
-                        System.out.println("Virsotnes skaits ar diviem berniem: " +
-                                bt.twoChildPerCount() + "\n");
+                        System.out.println("Lapu skaits: " +
+                                bt.leavesCount() + "\n");
                         bt.postOrder();
                         break;
                     case 3:

@@ -1,28 +1,28 @@
-package Ld4_14;
+package Ld4_14_GUI;
 
 class BinarySearchTree {
 
     private Node root;
     private int size;
     private int maxSize;
+    private StringBuilder str = new StringBuilder();
+
 
     BinarySearchTree(int maxSize) {
         this.root = null;
-        this.size = 0;
         this.maxSize = maxSize;
-        if (maxSize <= 0)
-            throw new IllegalStateException("Size must be greater 0");
-        if (maxSize > 15)
-            throw new IllegalStateException("MaxSize: 15");
+        this.size = 0;
+    }
+
+    void add(int data) {
+        if (!isFull()) {
+            root = insert(root, data);
+            size++;
+        }
     }
 
     boolean isFull() {
         return size == maxSize;
-    }
-
-    void add(int data) {
-        if(!isFull())
-        root = insert(root, data);
     }
 
     private int perCountTwoChild(Node node) {
@@ -55,13 +55,12 @@ class BinarySearchTree {
         if (node != null) {
             traversePostOrd(node.getLeft());
             traversePostOrd(node.getRight());
-            System.out.print(node.getData() + "\t");
+            str.append(node.getData()).append(" ");
         }
     }
 
     private Node insert(Node current, int data) {
         if (current == null) {
-            size++;
             return new Node(data);
         }
         if (data < current.getData()) {
@@ -90,8 +89,9 @@ class BinarySearchTree {
         return evenNumberCount(root);
     }
 
-    void postOrder() {
+    String postOrder() {
         traversePostOrd(root);
+        return str.toString();
     }
 
 }
