@@ -1,4 +1,4 @@
-package Ld4_1;
+package Ld4_5;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -38,6 +38,7 @@ class Node {
     }
 }
 
+
 class BinarySearchTree {
 
     private Node root;
@@ -63,14 +64,14 @@ class BinarySearchTree {
             root = insert(root, data);
     }
 
-    private int leavesCount(Node node) {
+    private int perOnlyLeftChildCount(Node node) {
         int count = 0;
         if (node != null) {
-            if (node.getLeft() == null && node.getRight() == null) {
+            if (node.getLeft() != null && node.getRight() == null) {
                 count++;
             }
-            count += leavesCount(node.getLeft());
-            count += leavesCount(node.getRight());
+            count += perOnlyLeftChildCount(node.getLeft());
+            count += perOnlyLeftChildCount(node.getRight());
         }
         return count;
     }
@@ -86,11 +87,11 @@ class BinarySearchTree {
 
     }
 
-    private void traversePreOrd(Node node) {
+    private void traversePostOrd(Node node) {
         if (node != null) {
+            traversePostOrd(node.getLeft());
+            traversePostOrd(node.getRight());
             System.out.print(node.getData() + "\t");
-            traversePreOrd(node.getLeft());
-            traversePreOrd(node.getRight());
         }
     }
 
@@ -117,28 +118,28 @@ class BinarySearchTree {
         return root == null;
     }
 
-    int leavesCount() {
-        return leavesCount(root);
+    int perOnlyLeftChildCount() {
+        return perOnlyLeftChildCount(root);
     }
 
-    int intervalCount() {
+    int evenCount() {
         return intervalCount(root);
     }
 
-    void preOrder() {
-        traversePreOrd(root);
+    void postOrder() {
+        traversePostOrd(root);
     }
 
 }
 
-public class Ld4_1 {
+public class Ld4_5 {
 
     private static BinarySearchTree bt;
 
     public static void main(String[] args) throws IOException {
 
         Random rd = new Random();
-        int ans;
+        int menu;
         boolean treeCreate = false;
 
         System.out.println("INFO");
@@ -150,21 +151,21 @@ public class Ld4_1 {
 
                 if (treeCreate) {
                     System.out.println("\nIzveidot jaunu koku                      : 1");
-                    System.out.println("Lapu skaits                              : 2");
+                    System.out.println("Virsotnes skaits tikai ar kreiso bernu   : 2");
                     System.out.println("Elementu skaits, no intervala [-10;10]   : 3");
                     System.out.println("Koka izvade                              : 4");
                     System.out.println("Pabeigt darbu                            : 0");
                     System.out.print("Ievaddati: ");
-                    ans = Integer.parseInt(br.readLine());
+                    menu = Integer.parseInt(br.readLine());
                 } else {
                     System.out.print("Koks nav izveidots, izvedot koku(y/n): ");
                     String str = br.readLine();
                     if (str.equals("Y") || str.equals("y"))
-                        ans = 1;
-                    else ans = 0;
+                        menu = 1;
+                    else menu = 0;
                 }
 
-                switch (ans) {
+                switch (menu) {
                     case 1:
                         System.out.print("Elementu skaits: ");
                         int size = Integer.parseInt(br.readLine());
@@ -191,27 +192,27 @@ public class Ld4_1 {
                             }
                         }
                         treeCreate = true;
-                        bt.preOrder();
+                        bt.postOrder();
                         break;
                     case 2:
-                        System.out.println("Lapu skaits: " +
-                                bt.leavesCount() + "\n");
-                        bt.preOrder();
+                        System.out.println("Virsotnes skaits tikai ar kreiso bernu: " +
+                                bt.perOnlyLeftChildCount() + "\n");
+                        bt.postOrder();
                         break;
                     case 3:
                         System.out.println("Elementu skaits, no intervala [-10;10]: " +
-                                bt.intervalCount() + "\n");
-                        bt.preOrder();
+                                bt.evenCount() + "\n");
+                        bt.postOrder();
                         break;
                     case 4:
-                        bt.preOrder();
+                        bt.postOrder();
                         break;
                     case 0:
                         System.out.println("Darbs ir pabeigts");
                         break loop;
                     default:
                         System.out.println("Nav tadu variantu, meiginet vel reiz.");
-                        bt.preOrder();
+                        bt.postOrder();
                         break;
                 }
             }
