@@ -25,17 +25,14 @@ class BinarySearchTree {
         root = insert(root, data);
     }
 
-    private int perCountTwoChild(Node node) {
+    private int perTwoChildCount(Node node) {
         int count = 0;
         if (node != null) {
             if (node.getLeft() != null && node.getRight() != null) {
-                /*System.out.println("Node: " + node.getData());
-                System.out.println("Left: " + node.getLeft().getData());
-                System.out.println("Right: " + node.getRight().getData() + "\n");*/
                 count++;
             }
-            count += perCountTwoChild(node.getLeft());
-            count += perCountTwoChild(node.getRight());
+            count += perTwoChildCount(node.getLeft());
+            count += perTwoChildCount(node.getRight());
         }
         return count;
     }
@@ -83,7 +80,7 @@ class BinarySearchTree {
     }
 
     int twoChildPerCount() {
-        return perCountTwoChild(root);
+        return perTwoChildCount(root);
     }
 
     int evenCount() {

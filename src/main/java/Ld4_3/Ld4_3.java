@@ -1,4 +1,4 @@
-package Ld4_28;
+package Ld4_3;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -64,27 +64,26 @@ class BinarySearchTree {
 
     }
 
-    private int perOnlyRightChildCount(Node node) {
+    private int leavesCount(Node node) {
         int count = 0;
         if (node != null) {
-            if (node.getLeft() == null && node.getRight() != null) {
+            if (node.getLeft() == null && node.getRight() == null) {
                 count++;
             }
-            count += perOnlyRightChildCount(node.getLeft());
-            count += perOnlyRightChildCount(node.getRight());
+            count += leavesCount(node.getLeft());
+            count += leavesCount(node.getRight());
         }
         return count;
     }
 
-    private int negNumCount(Node node) {
+    private int elementSum(Node node) {
         int count = 0;
         if (node != null) {
-            if (node.getData() < 0) count++;
-            count += negNumCount(node.getLeft());
-            count += negNumCount(node.getRight());
+            count+=node.getData();
+            count += elementSum(node.getLeft());
+            count += elementSum(node.getRight());
         }
         return count;
-
     }
 
     private void traverseInOrd(Node node) {
@@ -118,12 +117,12 @@ class BinarySearchTree {
         return root == null;
     }
 
-    int perOnlyRightChildCount() {
-        return perOnlyRightChildCount(root);
+    int leavesCount() {
+        return leavesCount(root);
     }
 
-    int negNumCount() {
-        return negNumCount(root);
+    int elementSum() {
+        return elementSum(root);
     }
 
     void inOrder() {
@@ -132,7 +131,7 @@ class BinarySearchTree {
 
 }
 
-public class Ld4_28 {
+public class Ld4_3 {
 
     private static BinarySearchTree bt;
 
@@ -151,12 +150,11 @@ public class Ld4_28 {
 
                 if (treeCreate) {
                     System.out.println("\nIzveidot jaunu koku                      : 1");
-                    System.out.println("Virsotnes skaits tikai ar labo bernu     : 2");
-                    System.out.println("Negativu elementu skaits                 : 3");
+                    System.out.println("Lapu skaits                              : 2");
+                    System.out.println("Elementu summa                           : 3");
                     System.out.println("Koka izvade                              : 4");
                     System.out.println("Pabeigt darbu                            : 0");
                     System.out.print("Ievaddati: ");
-
                     menu = Integer.parseInt(br.readLine());
                 } else {
                     System.out.print("Koks nav izveidots, izvedot koku(y/n): ");
@@ -194,13 +192,16 @@ public class Ld4_28 {
                         bt.inOrder();
                         break;
                     case 2:
-                        System.out.println("Virsotnes skaits tikai ar labo bernu: " +
-                                bt.perOnlyRightChildCount() + "\n");
+                        System.out.println("Lapu skaits: " +
+                                bt.leavesCount() + "\n");
                         bt.inOrder();
                         break;
                     case 3:
-                        System.out.println("Negativu elementu skaits: " +
-                                bt.negNumCount() + "\n");
+                        System.out.println("Elementu summa: " +
+                                bt.elementSum() + "\n");
+                        bt.inOrder();
+                        break;
+                    case 4:
                         bt.inOrder();
                         break;
                     case 0:

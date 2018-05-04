@@ -5,9 +5,57 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bbbe6904-eca1-42b3-8811-c7875dd4ff62" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ld4_5/Ld4_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ld4_3/Ld4_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ld4_31/Ld4_31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ld4_32/Ld4_32.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_0_0.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_2_0_RC1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_2_0_RC1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_0_0.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DS.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ld1/Ld1_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ld1/Ld1_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ld1/Ld1_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ld1/Ld1_14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ld1/Ld1_16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ld1/Ld1_16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ld1/Ld1_17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ld1/Ld1_17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ld1/Ld1_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ld1/Ld1_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ld1/Ld1_32.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ld1/Ld1_32.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ld1/Ld1_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ld1/Ld1_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ld1/Ld1_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ld1/Ld1_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ld2_1/Ld2_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ld2_1/Ld2_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ld2_14/Ld2_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ld2_14/Ld2_14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ld2_21/Ld2_21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ld2_21/Ld2_21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ld2_28/Ld2_28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ld2_28/Ld2_28.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ld2_3/Ld2_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ld2_3/Ld2_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ld2_31/Ld2_31.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ld2_31/Ld2_31.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ld2_32/Ld2_32.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ld2_32/Ld2_32.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ld3_1/Ld3_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ld3_1/Ld3_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ld3_14/Ld3_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ld3_14/Ld3_14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ld3_2/Ld3_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ld3_2/Ld3_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ld3_20/Ld3_20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ld3_20/Ld3_20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ld3_31/Ld3_31.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ld3_31/Ld3_31.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ld3_4/Ld3_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ld3_4/Ld3_4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Ld4_1/Ld4_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ld4_1/Ld4_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ld4_11/Ld4_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ld4_11/Ld4_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ld4_14/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ld4_14/BinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ld4_14/Ld4_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ld4_14/Ld4_14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ld4_14/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ld4_14/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ld4_14_GUI/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ld4_14_GUI/BinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ld4_14_GUI/GUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ld4_14_GUI/GUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ld4_14_GUI/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ld4_14_GUI/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ld4_14_GUI/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ld4_14_GUI/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ld4_2/Ld4_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ld4_2/Ld4_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ld4_28/Ld4_28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ld4_28/Ld4_28.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ld4_4/Ld4_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ld4_4/Ld4_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ld4_5/Ld4_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ld4_5/Ld4_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Ld2_1/SinglyLinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Ld2_1/SinglyLinkedListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Ld2_14/Ld2_14Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Ld2_14/Ld2_14Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Ld2_21/SinglyCircularLinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Ld2_21/SinglyCircularLinkedListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Ld2_28/Ld2_28Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Ld2_28/Ld2_28Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Ld2_31/DoubleCircLinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Ld2_31/DoubleCircLinkedListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Ld3_14/Ld3_14Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Ld3_14/Ld3_14Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -46,66 +94,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="Ld3_31.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Ld3_31/Ld3_31.java">
+      <file leaf-file-name="Ld4_31.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Ld4_31/Ld4_31.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="47" column="44" selection-start-line="47" selection-start-column="44" selection-end-line="47" selection-end-column="57" />
-              <folding>
-                <element signature="e#526#527#0" expanded="true" />
-                <element signature="e#553#554#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Ld4_1.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Ld4_1/Ld4_1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="201" column="87" lean-forward="true" selection-start-line="201" selection-start-column="87" selection-end-line="201" selection-end-column="87" />
+            <state relative-caret-position="1020">
+              <caret line="84" column="9" selection-start-line="84" selection-start-column="9" selection-end-line="84" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1031#1032#0" expanded="true" />
-                <element signature="e#1069#1070#0" expanded="true" />
-                <element signature="method#traversePreOrd#0;class#BinarySearchTree#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Ld4_28.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Ld4_28/Ld4_28.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2006">
-              <caret line="153" column="40" selection-start-line="153" selection-start-column="40" selection-end-line="153" selection-end-column="76" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="method#negNumCount#0;class#BinarySearchTree#0" />
-                <element signature="method#traverseInOrd#0;class#BinarySearchTree#0" />
-                <element signature="e#2718#2719#0" expanded="true" />
-                <element signature="e#2758#2759#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Ld4_5.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Ld4_5/Ld4_5.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="39" selection-start-line="39" selection-end-line="39" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="class#Node#0" />
-                <element signature="e#344#345#0" expanded="true" />
-                <element signature="e#371#372#0" expanded="true" />
                 <element signature="method#add#0;class#BinarySearchTree#0" />
-                <element signature="method#perOnlyLeftChildCount#0;class#BinarySearchTree#0" />
-                <element signature="method#intervalCount#0;class#BinarySearchTree#0" />
-                <element signature="method#traversePostOrd#0;class#BinarySearchTree#0" />
+                <element signature="method#traverseInOrd#0;class#BinarySearchTree#0" />
                 <element signature="method#insert#0;class#BinarySearchTree#0" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ld4_32.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Ld4_32/Ld4_32.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2310">
+              <caret line="179" column="29" selection-start-line="179" selection-start-column="29" selection-end-line="179" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -113,26 +121,52 @@
       <file leaf-file-name="Ld4_2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Ld4_2/Ld4_2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1717">
-              <caret line="134" column="13" selection-end-line="222" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#344#345#0" expanded="true" />
-                <element signature="e#371#372#0" expanded="true" />
-                <element signature="e#1032#1033#0" expanded="true" />
-                <element signature="e#1070#1071#0" expanded="true" />
-                <element signature="method#evenNumberCount#0;class#BinarySearchTree#0" />
-                <element signature="method#traversePostOrd#0;class#BinarySearchTree#0" />
-              </folding>
+            <state relative-caret-position="945">
+              <caret line="78" column="23" selection-start-line="78" selection-start-column="23" selection-end-line="78" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Ld2_14.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Ld2_14/Ld2_14.java">
+      <file leaf-file-name="Ld4_5.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Ld4_5/Ld4_5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2907">
-              <caret line="188" column="13" selection-start-line="188" selection-start-column="13" selection-end-line="188" selection-end-column="13" />
+            <state relative-caret-position="765">
+              <caret line="66" column="4" selection-start-line="66" selection-start-column="4" selection-end-line="76" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ld4_14.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Ld4_14/Ld4_14.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="26" column="40" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="74" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ld4_28.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Ld4_28/Ld4_28.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="157" column="25" selection-start-line="157" selection-start-column="25" selection-end-line="157" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Ld4_3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Ld4_3/Ld4_3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1050">
+              <caret line="133" column="13" selection-end-line="222" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#add#0;class#BinarySearchTree#0" />
+                <element signature="method#leavesCount#0;class#BinarySearchTree#0" />
+                <element signature="method#elementSum#0;class#BinarySearchTree#0" />
+                <element signature="method#traverseInOrd#0;class#BinarySearchTree#0" />
+                <element signature="method#insert#0;class#BinarySearchTree#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -140,8 +174,8 @@
       <file leaf-file-name="Ld4_11.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Ld4_11/Ld4_11.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3111">
-              <caret line="211" column="35" selection-start-line="211" selection-start-column="35" selection-end-line="211" selection-end-column="35" />
+            <state relative-caret-position="1050">
+              <caret line="85" column="11" selection-start-line="85" selection-start-column="11" selection-end-line="85" selection-end-column="11" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#traversePostOrd#0;class#BinarySearchTree#0" />
@@ -150,20 +184,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Ld4_4.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Ld4_4/Ld4_4.java">
+      <file leaf-file-name="Ld4_1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Ld4_1/Ld4_1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="109" column="5" selection-start-line="109" selection-start-column="5" selection-end-line="109" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="class#Node#0" />
-                <element signature="method#add#0;class#BinarySearchTree#0" />
-                <element signature="method#leavesCount#0;class#BinarySearchTree#0" />
-                <element signature="method#negNumCount#0;class#BinarySearchTree#0" />
-                <element signature="method#traversePreOrd#0;class#BinarySearchTree#0" />
-                <element signature="method#insert#0;class#BinarySearchTree#0" />
-              </folding>
+            <state relative-caret-position="2085">
+              <caret line="164" column="17" selection-start-line="164" selection-start-column="17" selection-end-line="164" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -197,9 +222,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/test/java/Ld3_14test.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Ld3_14/QueueTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Ld3_14/Ld3_14Test.groovy" />
         <option value="$PROJECT_DIR$/src/main/java/Ld1_14/Ld1_32.java" />
         <option value="$PROJECT_DIR$/src/main/java/Ld1_14/Ld1_17.java" />
         <option value="$PROJECT_DIR$/src/main/java/Ld1_14/Ld1_16.java" />
@@ -242,12 +264,15 @@
         <option value="$PROJECT_DIR$/src/main/java/Ld3_14/Ld3_14.java" />
         <option value="$PROJECT_DIR$/src/main/java/Ld4_28/Ld4_28.java" />
         <option value="$PROJECT_DIR$/src/main/java/Ld4_14/Ld4_14.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Ld4_14/BinarySearchTree.java" />
         <option value="$PROJECT_DIR$/src/main/java/Ld4_2/Ld4_2.java" />
         <option value="$PROJECT_DIR$/src/main/java/Ld4_11/Ld4_11.java" />
         <option value="$PROJECT_DIR$/src/main/java/Ld4_4/Ld4_4.java" />
         <option value="$PROJECT_DIR$/src/main/java/Ld4_5/Ld4_5.java" />
         <option value="$PROJECT_DIR$/src/main/java/Ld4_1/Ld4_1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Ld4_3/Ld4_3.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Ld4_32/Ld4_32.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Ld4_31/Ld4_31.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Ld4_14/BinarySearchTree.java" />
       </list>
     </option>
   </component>
@@ -278,10 +303,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="950" />
-    <option name="width" value="980" />
-    <option name="height" value="1040" />
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="960" />
+    <option name="y" value="25" />
+    <option name="width" value="960" />
+    <option name="height" value="978" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -291,6 +317,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -316,68 +343,12 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DS" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Ld4_1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DS" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Ld4_1" type="462c0819:PsiDirectoryNode" />
-              <item name="Ld4_1.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DS" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Ld4_2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DS" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Ld4_2" type="462c0819:PsiDirectoryNode" />
-              <item name="Ld4_2.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DS" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Ld4_5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DS" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DS" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -387,7 +358,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="$APPLICATION_PLUGINS_DIR$/NodeJS/js/nodeunit/nodeunit-intellij-starter.js" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -425,22 +396,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Ld4_5">
+  <component name="RunManager" selected="Application.Ld4_28">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HEIGHT" value="0" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <option name="WIDTH" value="0" />
-    </configuration>
-    <configuration name="Ld4_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ld4_1.Ld4_1" />
-      <module name="DS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ld4_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
     </configuration>
     <configuration name="Ld4_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ld4_11.Ld4_11" />
@@ -449,6 +409,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Ld4_11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Ld4_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ld4_14.Ld4_14" />
+      <module name="DS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ld4_14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -464,24 +435,24 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Ld4_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ld4_4.Ld4_4" />
+    <configuration name="Ld4_31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ld4_31.Ld4_31" />
       <module name="DS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ld4_4.*" />
+          <option name="PATTERN" value="Ld4_31.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Ld4_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ld4_5.Ld4_5" />
+    <configuration name="Ld4_32" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ld4_32.Ld4_32" />
       <module name="DS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ld4_5.*" />
+          <option name="PATTERN" value="Ld4_32.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -541,19 +512,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list>
-      <item itemvalue="Application.Ld4_1" />
-      <item itemvalue="Application.Ld4_28" />
-      <item itemvalue="Application.Ld4_4" />
+      <item itemvalue="Application.Ld4_32" />
+      <item itemvalue="Application.Ld4_31" />
       <item itemvalue="Application.Ld4_11" />
-      <item itemvalue="Application.Ld4_5" />
+      <item itemvalue="Application.Ld4_14" />
+      <item itemvalue="Application.Ld4_28" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ld4_5" />
         <item itemvalue="Application.Ld4_28" />
+        <item itemvalue="Application.Ld4_14" />
         <item itemvalue="Application.Ld4_11" />
-        <item itemvalue="Application.Ld4_4" />
-        <item itemvalue="Application.Ld4_1" />
+        <item itemvalue="Application.Ld4_31" />
+        <item itemvalue="Application.Ld4_32" />
       </list>
     </recent_temporary>
   </component>
@@ -804,7 +775,21 @@
       <workItem from="1525011627370" duration="1866000" />
       <workItem from="1525022636438" duration="1834000" />
       <workItem from="1525098842951" duration="736000" />
-      <workItem from="1525101118855" duration="1134000" />
+      <workItem from="1525101118855" duration="1233000" />
+      <workItem from="1525116098021" duration="572000" />
+      <workItem from="1525164501245" duration="1544000" />
+      <workItem from="1525182262214" duration="406000" />
+      <workItem from="1525194566815" duration="1577000" />
+      <workItem from="1525201880052" duration="145000" />
+      <workItem from="1525207209080" duration="379000" />
+      <workItem from="1525246898655" duration="18000" />
+      <workItem from="1525258582470" duration="123000" />
+      <workItem from="1525286300631" duration="691000" />
+      <workItem from="1525341824872" duration="224000" />
+      <workItem from="1525346650177" duration="21000" />
+      <workItem from="1525384045706" duration="10000" />
+      <workItem from="1525404780546" duration="44000" />
+      <workItem from="1525443028430" duration="144000" />
     </task>
     <task id="LOCAL-00001" summary="ver 1.2">
       <created>1522441068392</created>
@@ -1009,7 +994,14 @@
       <option name="project" value="LOCAL" />
       <updated>1525024462628</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="ver 1.2.3">
+      <created>1525103550784</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1525103550785</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1045,7 +1037,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="282829000" />
+    <option name="totallyTimeSpent" value="288826000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1057,7 +1049,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="0" y="25" width="1920" height="978" extended-state="6" />
     <layout>
       <window_info anchor="right" x="1657" y="177" width="166" height="729" id="Palette" internal_type="FLOATING" order="0" type="FLOATING" />
       <window_info anchor="bottom" id="TODO" order="9" weight="0.32905984" />
@@ -1068,11 +1060,11 @@
       <window_info anchor="right" id="Maven Projects" order="1" weight="0.3295302" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="1" sideWeight="0.49932885" weight="0.32905984" />
-      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.49932885" weight="0.36258993" />
-      <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.49798658" weight="0.32621083" />
+      <window_info anchor="bottom" id="Run" order="5" sideWeight="0.49932885" weight="0.35327634" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="2" sideWeight="0.49798658" visible="true" weight="0.32544377" />
       <window_info id="Capture Tool" order="0" />
       <window_info id="Designer" order="1" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.497151" visible="true" weight="0.22550336" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.497151" visible="true" weight="0.1547492" />
       <window_info anchor="right" id="Database" order="2" weight="0.44966444" />
       <window_info id="Structure" order="6" sideWeight="0.502849" side_tool="true" weight="0.23020135" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.24966443" />
@@ -1080,40 +1072,40 @@
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info id="Favorites" order="4" sideWeight="0.5014245" side_tool="true" weight="0.21006711" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.44159544" />
-      <window_info active="true" anchor="right" id="Coverage" order="9" side_tool="true" visible="true" weight="0.32975295" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.24966443" />
+      <window_info active="true" anchor="right" id="Coverage" order="9" side_tool="true" visible="true" weight="0.32975295" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49932885" weight="0.37037036" />
       <window_info anchor="right" id="Commander" order="6" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="4" weight="0.32905984" />
-      <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49932885" weight="0.37037036" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" x="1657" y="177" width="166" height="729" id="Palette" internal_type="FLOATING" order="0" type="FLOATING" />
-      <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.49798658" weight="0.32621083" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.24966443" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Database" order="2" weight="0.44966444" />
-      <window_info anchor="bottom" id="Version Control" order="1" sideWeight="0.49932885" weight="0.32905984" />
+      <window_info active="true" anchor="right" id="Coverage" order="9" side_tool="true" visible="true" weight="0.32975295" />
+      <window_info active="true" anchor="bottom" id="Run" order="5" sideWeight="0.49932885" visible="true" weight="0.3631124" />
       <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="5" sideWeight="0.497151" weight="0.21946308" />
       <window_info id="Structure" order="6" sideWeight="0.502849" side_tool="true" weight="0.23020135" />
       <window_info anchor="right" id="Commander" order="6" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.24966443" />
       <window_info anchor="bottom" id="TODO" order="9" weight="0.32905984" />
-      <window_info active="true" anchor="bottom" id="Run" order="5" sideWeight="0.49932885" visible="true" weight="0.3631124" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="1" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Find" order="4" weight="0.32905984" />
-      <window_info anchor="bottom" id="Debug" order="6" weight="0.44159544" />
+      <window_info anchor="right" id="Database" order="2" weight="0.44966444" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info active="true" anchor="right" id="Coverage" order="9" side_tool="true" visible="true" weight="0.32975295" />
-      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.50201344" side_tool="true" weight="0.32621083" />
+      <window_info anchor="bottom" id="Terminal" order="2" sideWeight="0.49798658" weight="0.32621083" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.44159544" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="1" sideWeight="0.49932885" weight="0.32905984" />
+      <window_info anchor="bottom" id="Event Log" order="0" sideWeight="0.50201344" side_tool="true" weight="0.32621083" />
       <window_info id="Capture Tool" order="0" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Messages" order="11" sideWeight="0.49932885" weight="0.37037036" />
@@ -1204,9 +1196,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/Ld3_14test.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/Ld3_14/QueueTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/Ld3_14/Ld3_14Test.groovy" />
     <entry file="uml://MODULES/mdl-DS">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -1224,13 +1213,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.1.0/junit-platform-commons-1.1.0.jar!/org/junit/platform/commons/util/ReflectionUtils.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="201" selection-start-line="201" selection-end-line="201" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/junit/platform/junit-platform-commons/1.1.0/junit-platform-commons-1.1.0.jar!/org/junit/platform/commons/util/ReflectionUtils.class" />
     <entry file="uml://JAVA/Ld2_28.Ld2_28">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -1257,13 +1240,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Ld2_14/CircularLinkedListTest.java" />
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_141/jre/lib/rt.jar!/java/util/function/BooleanSupplier.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_141/jre/lib/rt.jar!/java/util/function/BooleanSupplier.class" />
     <entry file="file://$PROJECT_DIR$/src/test/java/Ld2_28/Ld2_28Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -1444,13 +1421,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Program Files/Java/jdk-10/lib/src.zip!/java.desktop/java/awt/event/ActionListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="50" column="16" selection-start-line="50" selection-start-column="16" selection-end-line="50" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk-10/lib/src.zip!/java.desktop/java/awt/event/ActionListener.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/Ld4_14_GUI/Node.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -1526,35 +1497,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Ld4_14/BinarySearchTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Ld4_14_GUI/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Ld3_31/Ld3_31.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="47" column="44" selection-start-line="47" selection-start-column="44" selection-end-line="47" selection-end-column="57" />
-          <folding>
-            <element signature="e#526#527#0" expanded="true" />
-            <element signature="e#553#554#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Ld2_14/Ld2_14.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2907">
-          <caret line="188" column="13" selection-start-line="188" selection-start-column="13" selection-end-line="188" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1565,35 +1511,64 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Ld4_14/Ld4_14.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ld4_4/Ld4_4.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="11" column="63" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="63" />
+        <state relative-caret-position="323">
+          <caret line="88" column="34" selection-end-line="224" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Ld4_11/Ld4_11.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ld3_31/Ld3_31.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3111">
-          <caret line="211" column="35" selection-start-line="211" selection-start-column="35" selection-end-line="211" selection-end-column="35" />
+        <state relative-caret-position="17">
+          <caret line="47" column="44" selection-start-line="47" selection-start-column="44" selection-end-line="47" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ld2_14/Ld2_14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="188" column="13" selection-start-line="188" selection-start-column="13" selection-end-line="188" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ld4_3/Ld4_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="133" column="13" selection-end-line="222" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#traversePostOrd#0;class#BinarySearchTree#0" />
+            <element signature="method#add#0;class#BinarySearchTree#0" />
+            <element signature="method#leavesCount#0;class#BinarySearchTree#0" />
+            <element signature="method#elementSum#0;class#BinarySearchTree#0" />
+            <element signature="method#traverseInOrd#0;class#BinarySearchTree#0" />
+            <element signature="method#insert#0;class#BinarySearchTree#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Ld4_4/Ld4_4.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ld4_5/Ld4_5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="109" column="5" selection-start-line="109" selection-start-column="5" selection-end-line="109" selection-end-column="5" />
+        <state relative-caret-position="765">
+          <caret line="66" column="4" selection-start-line="66" selection-start-column="4" selection-end-line="76" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ld4_32/Ld4_32.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2310">
+          <caret line="179" column="29" selection-start-line="179" selection-start-column="29" selection-end-line="179" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ld4_31/Ld4_31.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="84" column="9" selection-start-line="84" selection-start-column="9" selection-end-line="84" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="class#Node#0" />
             <element signature="method#add#0;class#BinarySearchTree#0" />
-            <element signature="method#leavesCount#0;class#BinarySearchTree#0" />
-            <element signature="method#negNumCount#0;class#BinarySearchTree#0" />
-            <element signature="method#traversePreOrd#0;class#BinarySearchTree#0" />
+            <element signature="method#traverseInOrd#0;class#BinarySearchTree#0" />
             <element signature="method#insert#0;class#BinarySearchTree#0" />
           </folding>
         </state>
@@ -1601,62 +1576,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Ld4_2/Ld4_2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1717">
-          <caret line="134" column="13" selection-end-line="222" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#344#345#0" expanded="true" />
-            <element signature="e#371#372#0" expanded="true" />
-            <element signature="e#1032#1033#0" expanded="true" />
-            <element signature="e#1070#1071#0" expanded="true" />
-            <element signature="method#evenNumberCount#0;class#BinarySearchTree#0" />
-            <element signature="method#traversePostOrd#0;class#BinarySearchTree#0" />
-          </folding>
+        <state relative-caret-position="945">
+          <caret line="78" column="23" selection-start-line="78" selection-start-column="23" selection-end-line="78" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Ld4_28/Ld4_28.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ld4_11/Ld4_11.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2006">
-          <caret line="153" column="40" selection-start-line="153" selection-start-column="40" selection-end-line="153" selection-end-column="76" />
+        <state relative-caret-position="1050">
+          <caret line="85" column="11" selection-start-line="85" selection-start-column="11" selection-end-line="85" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#negNumCount#0;class#BinarySearchTree#0" />
-            <element signature="method#traverseInOrd#0;class#BinarySearchTree#0" />
-            <element signature="e#2718#2719#0" expanded="true" />
-            <element signature="e#2758#2759#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Ld4_5/Ld4_5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="class#Node#0" />
-            <element signature="e#344#345#0" expanded="true" />
-            <element signature="e#371#372#0" expanded="true" />
-            <element signature="method#add#0;class#BinarySearchTree#0" />
-            <element signature="method#perOnlyLeftChildCount#0;class#BinarySearchTree#0" />
-            <element signature="method#intervalCount#0;class#BinarySearchTree#0" />
             <element signature="method#traversePostOrd#0;class#BinarySearchTree#0" />
-            <element signature="method#insert#0;class#BinarySearchTree#0" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Ld4_1/Ld4_1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="201" column="87" lean-forward="true" selection-start-line="201" selection-start-column="87" selection-end-line="201" selection-end-column="87" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1031#1032#0" expanded="true" />
-            <element signature="e#1069#1070#0" expanded="true" />
-            <element signature="method#traversePreOrd#0;class#BinarySearchTree#0" />
-          </folding>
+        <state relative-caret-position="2085">
+          <caret line="164" column="17" selection-start-line="164" selection-start-column="17" selection-end-line="164" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ld4_14/BinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-461">
+          <caret line="39" column="32" selection-start-line="39" selection-start-column="32" selection-end-line="39" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ld4_14/Ld4_14.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="26" column="40" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Ld4_28/Ld4_28.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="157" column="25" selection-start-line="157" selection-start-column="25" selection-end-line="157" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -1725,7 +1685,7 @@
       </state>
       <state key="ProjectJDKs.UI">
         <settings>
-          <last-edited>1.8</last-edited>
+          <last-edited>10</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
