@@ -1,4 +1,4 @@
-package Ld4_14;
+package Ld4_7;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -59,38 +59,38 @@ class BinarySearchTree {
     }
 
     void add(int data) {
-        if(!isFull())
+        if (!isFull())
             root = insert(root, data);
     }
 
-    private int perTwoChildCount(Node node) {
+    private int perOnlyLeftChildCount(Node node) {
         int count = 0;
         if (node != null) {
-            if (node.getLeft() != null && node.getRight() != null) {
+            if (node.getLeft() != null && node.getRight() == null) {
                 count++;
             }
-            count += perTwoChildCount(node.getLeft());
-            count += perTwoChildCount(node.getRight());
+            count += perOnlyLeftChildCount(node.getLeft());
+            count += perOnlyLeftChildCount(node.getRight());
         }
         return count;
     }
 
-    private int evenNumberCount(Node node) {
+    private int elementSum(Node node) {
         int count = 0;
         if (node != null) {
-            if (node.getData() % 2 == 0) count++;
-            count += evenNumberCount(node.getLeft());
-            count += evenNumberCount(node.getRight());
+            count+=node.getData();
+            count += elementSum(node.getLeft());
+            count += elementSum(node.getRight());
         }
         return count;
 
     }
 
-    private void traversePostOrd(Node node) {
+    private void traversePreOrd(Node node) {
         if (node != null) {
-            traversePostOrd(node.getLeft());
-            traversePostOrd(node.getRight());
             System.out.print(node.getData() + "\t");
+            traversePreOrd(node.getLeft());
+            traversePreOrd(node.getRight());
         }
     }
 
@@ -117,21 +117,21 @@ class BinarySearchTree {
         return root == null;
     }
 
-    int twoChildPerCount() {
-        return perTwoChildCount(root);
+    int perOnlyLeftChildCount() {
+        return perOnlyLeftChildCount(root);
     }
 
-    int evenCount() {
-        return evenNumberCount(root);
+    int elementSum() {
+        return elementSum(root);
     }
 
-    void postOrder() {
-        traversePostOrd(root);
+    void preOrder() {
+        traversePreOrd(root);
     }
 
 }
 
-public class Ld4_14 {
+public class Ld4_7 {
 
     private static BinarySearchTree bt;
 
@@ -150,8 +150,8 @@ public class Ld4_14 {
 
                 if (treeCreate) {
                     System.out.println("\nIzveidot jaunu koku                      : 1");
-                    System.out.println("Virsotnes skaits ar diviem berniem       : 2");
-                    System.out.println("Para elementu skaits koka                : 3");
+                    System.out.println("Virsotnes skaits tikai ar kreiso bernu   : 2");
+                    System.out.println("Elementu summa                           : 3");
                     System.out.println("Koka izvade                              : 4");
                     System.out.println("Pabeigt darbu                            : 0");
                     System.out.print("Ievaddati: ");
@@ -191,27 +191,27 @@ public class Ld4_14 {
                             }
                         }
                         treeCreate = true;
-                        bt.postOrder();
+                        bt.preOrder();
                         break;
                     case 2:
-                        System.out.println("Virsotnes skaits ar diviem berniem: " +
-                                bt.twoChildPerCount() + "\n");
-                        bt.postOrder();
+                        System.out.println("Virsotnes skaits tikai ar kreiso bernu: " +
+                                bt.perOnlyLeftChildCount() + "\n");
+                        bt.preOrder();
                         break;
                     case 3:
-                        System.out.println("Para elementu skaits koka: " +
-                                bt.evenCount() + "\n");
-                        bt.postOrder();
+                        System.out.println("Elementu summa: " +
+                                bt.elementSum() + "\n");
+                        bt.preOrder();
                         break;
                     case 4:
-                        bt.postOrder();
+                        bt.preOrder();
                         break;
                     case 0:
                         System.out.println("Darbs ir pabeigts");
                         break loop;
                     default:
                         System.out.println("Nav tadu variantu, meiginet vel reiz.");
-                        bt.postOrder();
+                        bt.preOrder();
                         break;
                 }
             }
