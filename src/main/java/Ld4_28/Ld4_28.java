@@ -156,7 +156,6 @@ public class Ld4_28 {
                     System.out.println("Koka izvade                              : 4");
                     System.out.println("Pabeigt darbu                            : 0");
                     System.out.print("Ievaddati: ");
-
                     menu = Integer.parseInt(br.readLine());
                 } else {
                     System.out.print("Koks nav izveidots, izvedot koku(y/n): ");
