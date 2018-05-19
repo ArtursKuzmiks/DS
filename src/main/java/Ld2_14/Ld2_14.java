@@ -1,12 +1,8 @@
-/*
- * Author: Arturs Kuzmiks
- */
-
-/*
- * Author: Arturs Kuzmiks
- */
-
 package Ld2_14;
+
+/*
+ * Author: Arturs Kuzmiks
+ */
 
 import java.io.BufferedReader;
 import java.io.IOException;

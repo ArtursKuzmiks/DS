@@ -1,8 +1,8 @@
+package Ld4_14_GUI;
+
 /*
  * Author: Arturs Kuzmiks
  */
-
-package Ld4_14_GUI;
 
 import javax.swing.*;
 import java.awt.*;

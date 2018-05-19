@@ -1,8 +1,8 @@
+package AVL_Tree;
+
 /*
  * Author: Arturs Kuzmiks
  */
-
-package AVL_Tree;
 
 class AVLTree {
 

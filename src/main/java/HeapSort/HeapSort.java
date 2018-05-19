@@ -1,8 +1,8 @@
+package HeapSort;
+
 /*
  * Author: Arturs Kuzmiks
  */
-
-package HeapSort;
 
 public class HeapSort {
 

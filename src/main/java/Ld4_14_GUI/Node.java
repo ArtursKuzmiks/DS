@@ -1,20 +1,8 @@
-/*
- * Author: Arturs Kuzmiks
- */
-
-/*
- * Author: Arturs Kuzmiks
- */
-
-/*
- * Author: Arturs Kuzmiks
- */
-
-/*
- * Author: Arturs Kuzmiks
- */
-
 package Ld4_14_GUI;
+
+/*
+ * Author: Arturs Kuzmiks
+ */
 
 class Node {
     private int data;

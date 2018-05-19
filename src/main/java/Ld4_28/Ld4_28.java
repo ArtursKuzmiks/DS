@@ -1,5 +1,9 @@
 package Ld4_28;
 
+/*
+ * Author: Arturs Kuzmiks
+ */
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

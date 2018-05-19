@@ -1,12 +1,8 @@
-/*
- * Author: Arturs Kuzmiks
- */
-
-/*
- * Author: Arturs Kuzmiks
- */
-
 package Ld2_3;
+
+/*
+ * Author: Arturs Kuzmiks
+ */
 
 import java.util.Random;
 import java.util.Scanner;

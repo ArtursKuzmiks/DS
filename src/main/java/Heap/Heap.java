@@ -1,9 +1,8 @@
+package Heap;
+
 /*
  * Author: Arturs Kuzmiks
  */
-
-package Heap;
-
 
 class Heap {
     private int[] data;

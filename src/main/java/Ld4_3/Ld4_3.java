@@ -1,8 +1,8 @@
+package Ld4_3;
+
 /*
  * Author: Arturs Kuzmiks
  */
-
-package Ld4_3;
 
 import java.io.BufferedReader;
 import java.io.IOException;
