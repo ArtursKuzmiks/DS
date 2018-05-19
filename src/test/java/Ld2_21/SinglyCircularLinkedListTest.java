@@ -2,6 +2,10 @@
  * Author: Arturs Kuzmiks
  */
 
+/*
+ * Author: Arturs Kuzmiks
+ */
+
 package Ld2_21;
 
 import org.junit.jupiter.api.Test;
