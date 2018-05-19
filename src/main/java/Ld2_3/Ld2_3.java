@@ -2,10 +2,6 @@
  * Author: Arturs Kuzmiks
  */
 
-/*
- * Author: Arturs Kuzmiks
- */
-
 package Ld2_3;
 
 import java.util.Random;

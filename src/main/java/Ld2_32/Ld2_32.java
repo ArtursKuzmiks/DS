@@ -2,10 +2,6 @@
  * Author: Arturs Kuzmiks
  */
 
-/*
- * Author: Arturs Kuzmiks
- */
-
 package Ld2_32;
 
 import java.io.BufferedReader;

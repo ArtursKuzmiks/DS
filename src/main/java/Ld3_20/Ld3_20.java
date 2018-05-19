@@ -2,10 +2,6 @@
  * Author: Arturs Kuzmiks
  */
 
-/*
- * Author: Arturs Kuzmiks
- */
-
 package Ld3_20;
 
 import java.io.BufferedReader;

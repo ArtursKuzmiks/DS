@@ -6,6 +6,10 @@
  * Author: Arturs Kuzmiks
  */
 
+/*
+ * Author: Arturs Kuzmiks
+ */
+
 package Ld4_32;
 
 import java.io.BufferedReader;

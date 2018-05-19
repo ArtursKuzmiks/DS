@@ -2,10 +2,6 @@
  * Author: Arturs Kuzmiks
  */
 
-/*
- * Author: Arturs Kuzmiks
- */
-
 package Ld1;
 
 import java.io.BufferedReader;

@@ -2,11 +2,6 @@
  * Author: Arturs Kuzmiks
  */
 
-/*
- * Author: Arturs Kuzmiks
- */
-
-
 package Deck;
 
 import java.io.BufferedReader;
