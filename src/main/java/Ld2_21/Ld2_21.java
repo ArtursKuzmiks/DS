@@ -1,3 +1,7 @@
+/*
+ * Author: Arturs Kuzmiks
+ */
+
 package Ld2_21;
 
 import java.io.BufferedReader;

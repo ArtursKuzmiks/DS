@@ -1,3 +1,7 @@
+/*
+ * Author: Arturs Kuzmiks
+ */
+
 package Ld4_14;
 
 import java.io.BufferedReader;

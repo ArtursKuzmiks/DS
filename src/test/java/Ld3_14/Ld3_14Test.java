@@ -1,3 +1,7 @@
+/*
+ * Author: Arturs Kuzmiks
+ */
+
 package Ld3_14;
 
 import org.junit.jupiter.api.Test;

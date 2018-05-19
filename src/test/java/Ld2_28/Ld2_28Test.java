@@ -1,3 +1,7 @@
+/*
+ * Author: Arturs Kuzmiks
+ */
+
 package Ld2_28;
 
 import org.junit.jupiter.api.Test;
